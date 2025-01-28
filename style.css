@@ -4,6 +4,9 @@ body {
     max-width: 960px;
     margin: auto;
 }
+#mainLeft {
+    border-right: 1px solid lightgray;
+}
 
 h1 {
     font-size: 3em;
