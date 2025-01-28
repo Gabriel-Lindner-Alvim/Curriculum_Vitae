@@ -102,4 +102,10 @@ h1, h2, h3 {
     main {
         padding: 10px;
     }
+    main {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1.5em;
+        padding: 10px;
+    }
 }
