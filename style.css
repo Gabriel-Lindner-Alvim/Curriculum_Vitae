@@ -100,9 +100,6 @@ h1, h2, h3 {
         font-size: 1.2em;
     }
     main {
-        padding: 10px;
-    }
-    main {
         display: grid;
         grid-template-columns: 1fr;
         gap: 1.5em;
